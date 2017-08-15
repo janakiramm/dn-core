@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <AssemblyName>DotNetCoreExtentions</AssemblyName>
+    <AssemblyName>DSLibrary</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>DotNetCoreExtentions</PackageId>
+    <PackageId>DSLibrary</PackageId>
     <RuntimeFrameworkVersion>2.0.0</RuntimeFrameworkVersion>
   </PropertyGroup>
 
